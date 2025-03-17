@@ -19,7 +19,7 @@ Federated Learning (FL) allows multiple devices or nodes to collaboratively lear
 
 ## Installation and Usage
 
-### 1. Clone the Repository
+1. Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/Federated_Learning_Project.git
