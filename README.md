@@ -25,3 +25,16 @@ Federated Learning (FL) allows multiple devices or nodes to collaboratively lear
 git clone https://github.com/your-username/Federated_Learning_Project.git
 cd Federated_Learning_Project
 
+## 2. Install Dependencies
+pip install -r requirements.txt
+
+### 3. Run the Notebook
+Launch Jupyter Notebook:
+jupyter notebook
+
+## Usage
+
+Open the Federated_Learning.ipynb notebook in Jupyter.
+Follow the step-by-step implementation to understand and run the Federated Learning model.
+Modify parameters to experiment with different configurations.
+
