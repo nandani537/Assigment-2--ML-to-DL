@@ -21,6 +21,7 @@ Federated Learning (FL) allows multiple devices or nodes to collaboratively lear
 
 ### 1. Clone the Repository
 git clone https://github.com/nandani537/Federated_Learning.ipynb
+
 cd Assignment-2-ML-to-DL
 
 ### 2. Install Dependencies
